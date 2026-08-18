@@ -1,0 +1,21 @@
+/* Aqui ficará o CSS */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: violet;
+}
+
+header {
+    background-color: aqua;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
